@@ -8,3 +8,6 @@ Organizes files in directory from which it is run. Files are stored in folders a
 
 # pad
 Opens all C++ and text files of current directory in Notepad++.
+
+# Streamlink Shortcut
+AutoHotKey script which makes using streamlink easy for the lazy. Active only on Firefox, Alt+J pauses the video, grabs the URL, switches to or launches powershell, and types the streamlink command for you.
